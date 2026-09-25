@@ -96,8 +96,8 @@
 	depends = qtbase
 	recommends = qtdeclarative
 	path = qtwayland
-	url = ../qtwayland.git
-	branch = for-krita/6.11.3
+	url = ../../qt/qtwayland.git
+	branch = 6.11.3
 	status = addon
 [submodule "qt3d"]
 	depends = qtbase
